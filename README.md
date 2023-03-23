@@ -2,7 +2,7 @@
 
 
 ## About
-👋 Hi, I'm Lev - a highly experienced Full-stack developer with 5 years of professional experience with a primary focus on React framework. In every project, I take ownership over tasks and produce significant input as both an individual contributor and a team member.
+👋 Hey, what's up? Lev here, a Full-stack dev with 5 years of experience under my belt. React's my jam, and I always step up to the plate to handle my tasks in every project. Whether as a team player or working solo, I always bring my A-game.
 
 ## Skills
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -24,4 +24,4 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ## How I can help you
-👨‍💻 As a Full-stack React Developer, I can help you build and deploy your web application, create responsive and mobile-friendly user interfaces, and improve the performance and scalability of your web application. I can also integrate your web application with third-party APIs, set up continuous integration and delivery, and optimize the user experience. I'm your reliable partner who understands the importance of collaboration and communication in achieving the best possible results. Let's build something amazing together!
+👨‍💻 As you can see, I've got all the skills to help you build and launch your web app and make it perform like a champ. Plus, with me as your partner, you can count on me to communicate and collaborate with you every step of the way. Let's work together and create something truly spectacular!

@@ -8,8 +8,8 @@ My name is Lev, I'm competent Full-stack developer with over 5 years of professi
 
 A short list of things I'm capable of:
 
-- Tidy, manageable, and effective programming 💻
-- Responsive design and accessibility 🌐📱
+- tidy, manageable, and effective programming 💻
+- responsive design and accessibility 🌐📱
 - detail-oriented problem solving 🔧
 - always expanding my knowledges and improving skills 🔍
 

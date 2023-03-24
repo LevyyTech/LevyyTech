@@ -1,12 +1,17 @@
 ![LevGithub](https://user-images.githubusercontent.com/128682730/227208402-729622fa-cce1-466d-82fe-c5f02916fe78.png)
 
 
-## 👋 Hi there, my name is Lev
-And I can provide you with:
+## 👋 Hi there
+You're lookig for sombebody to make your project top-notch, eh? You've come to the rigth place!
+
+My name is Lev, I'm competent Full-stack developer with over 5 years of professional experience with a primary focus on React framework.
+
+A short list of things I'm capable of:
+
 - Tidy, manageable, and effective programming 💻
 - Responsive design and accessibility 🌐📱
-- Testing and debugging process 🔍🔧
-- quick complex problem solution ⏱️
+- detail-oriented problem solving 🔧
+- always expanding my knowledges and improving skills 🔍
 
 
 ## 🛠️ Tools I use

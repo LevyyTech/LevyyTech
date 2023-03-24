@@ -1,10 +1,15 @@
 ![LevGithub](https://user-images.githubusercontent.com/128682730/227208402-729622fa-cce1-466d-82fe-c5f02916fe78.png)
 
 
-## About
-👋 Hey, what's up? Lev here, a Full-stack dev with 5 years of experience under my belt. React's my jam, and I always step up to the plate to handle my tasks in every project. Whether as a team player or working solo, I always bring my A-game.
+## 👋 Hi there, my name is Lev
+And I can provide you with:
+- Tidy, manageable, and effective programming 💻
+- Responsive design and accessibility 🌐📱
+- Testing and debugging process 🔍🔧
+- quick complex problem solution ⏱️
 
-## Skills
+
+## 🛠️ Tools I use
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
@@ -23,5 +28,5 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-## How I can help you
+## Long story short
 👨‍💻 As you can see, I've got all the skills to help you build and launch your web app and make it perform like a champ. Plus, with me as your partner, you can count on me to communicate and collaborate with you every step of the way. Let's work together and create something truly spectacular!

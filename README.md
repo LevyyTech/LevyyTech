@@ -1,8 +1,10 @@
 ![LevGithub (1)](https://user-images.githubusercontent.com/128682730/227897228-0314854c-59b2-4e94-9e6a-28432d41911f.png)
 
+<div id="header" align="Left">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100"/>
+</div>
 
-
-## 👋 Hi there
+##  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=277DB3&vCenter=true&width=435&lines=Hi+there!)](https://git.io/typing-svg)
 You're lookig for sombebody to make your project top-notch, eh? You've come to the rigth place!
 
 My name is Lev, I'm competent Full-stack developer with over 5 years of professional experience with a primary focus on React framework.

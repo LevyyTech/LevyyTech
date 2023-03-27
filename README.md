@@ -21,6 +21,9 @@ A short list of things I'm capable of:
 
 
 ## 🛠️ Tools I use
+<div id="header" align="Left">
+  <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100"/>
+</div>
  
 ## Front-end 🖥️
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)

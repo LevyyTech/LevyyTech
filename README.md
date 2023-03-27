@@ -1,4 +1,5 @@
-![LevGithub](https://user-images.githubusercontent.com/128682730/227208402-729622fa-cce1-466d-82fe-c5f02916fe78.png)
+![LevGithub (1)](https://user-images.githubusercontent.com/128682730/227897228-0314854c-59b2-4e94-9e6a-28432d41911f.png)
+
 
 
 ## 👋 Hi there

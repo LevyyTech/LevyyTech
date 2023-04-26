@@ -5,19 +5,19 @@
 </div>
 
 ##  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=277DB3&vCenter=true&width=435&lines=Hi+there!)](https://git.io/typing-svg)
-You're lookig for sombebody to make your project top-notch, eh? You've come to the rigth place!
+You're looking to create the best-quality project, eh? You've come to the right place!
 
-My name is Lev, I'm competent Full-stack developer with over 5 years of professional experience with a primary focus on React framework.
+My name is Lev, I'm Full-stack developer with over 5 years of professional experience with a primary focus on React framework.
 
 A short list of things I'm capable of:
 
-✔️ - tidy, manageable, and effective programming 💻
+✔️ tidy, manageable, and effective programming 💻
 
-✔️ - responsive design and accessibility 🌐📱
+✔️ responsive design and accessibility 🌐📱
 
-✔️ - detail-oriented problem solving 🔧
+✔️ detail-oriented problem solving 🔧
 
-✔️ - always expanding my knowledges and improving skills 🔍
+✔️ always expanding my knowledge and improving skills 🔍
 
 
 ## 🛠️ Tools I use

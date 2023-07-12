@@ -1,4 +1,4 @@
-![Developer](https://github.com/LevyyTech/LevyyTech/assets/128682730/a757eac4-f61f-4a6c-8020-eb95cb3e479e)
+![Developer](https://github.com/LevyyTech/LevyyTech/assets/128682730/93b42023-a752-4a2a-9699-1e03d626bbc5)
 
 <div id="header" align="Left">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100"/>

@@ -27,6 +27,7 @@ A short list of things I'm capable of:
  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Next.Js](https://img.shields.io/badge/-Next.Js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -41,4 +42,4 @@ A short list of things I'm capable of:
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ## Long story short
-👨‍💻 As you can see, I've got all the skills to help you build and launch your web app and make it perform like a champ. Plus, with me as your partner, you can count on me to communicate and collaborate with you every step of the way. Let's work together and create something truly spectacular!
+👨‍💻 As you can see, I've got all the skills to help you build and launch your web or mobile app and make it perform like a champ. Plus, with me as your partner, you can count on me to communicate and collaborate with you every step of the way. Let's work together and create something truly spectacular!
